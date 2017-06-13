@@ -9,7 +9,7 @@
 # pull base image
 FROM alpine:3.4
 
-MAINTAINER Bastian Widmer <bastian@amazee.ioY
+MAINTAINER Bastian Widmer <bastian@amazee.io>
 
 
 RUN echo "===> Installing sudo to emulate normal OS behavior..."  && \
